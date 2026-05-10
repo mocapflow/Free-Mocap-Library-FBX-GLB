@@ -1,0 +1,48 @@
+  Football Run (15436956)
+  Handstand Balance
+  Boxing Jab
+  Already exists: handstand
+  human_american_football_15436956_full_body
+  human_american_football_6078265_full_body
+  human_american_football_7187046_full_body
+  human_archery_full_body
+  human_badminton_8052834_full_body
+  human_badminton_8052838_full_body
+  human_ballet_10637178_full_body
+  human_ballet_5144823_full_body
+  human_ballet_5144827_full_body
+  human_baseball_8544609_full_body
+  human_basketball_6070824_full_body
+  human_basketball_6070825_full_body
+  human_basketball_6070828_full_body
+  human_basketball_6070829_full_body
+  human_basketball_6249383_full_body
+  human_bodybuilding_4745811_full_body
+  human_bodybuilding_5319084_full_body
+  human_boxing_5596568_full_body
+  human_boxing_5751971_full_body
+  human_boxing_8810048_full_body
+  human_breakdancing_16923283_full_body
+  human_breakdancing_16923284_full_body
+  human_breakdancing_3873107_full_body
+  human_breakdancing_4198456_full_body
+  human_capoeira_4812842_full_body
+  human_capoeira_8544609_full_body
+  human_crossfit_6388406_full_body
+  human_gymnastics_4367539_full_body
+  human_gymnastics_7186643_full_body
+  human_hammer_throw_18573535_full_body
+  human_hammer_throw_7187054_full_body
+  human_high_jump_3048952_full_body
+  human_hip_hop_dance_3873086_full_body
+  human_hurdles_8544609_full_body
+  human_kettlebell_3569987_full_body
+  human_lacrosse_31035748_full_body
+  human_lacrosse_6070829_full_body
+  human_muay_thai_5752382_full_body
+  human_salsa_dance_3873107_full_body
+  human_skateboarding_4824363_full_body
+  human_skateboarding_5384673_full_body
+  human_skateboarding_8734569_full_body  
+  mountain_climbing
+  walking
